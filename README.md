@@ -1,4 +1,5 @@
 # jpa basic study
+- JPA 기본 공부
 
 >개발환경
 - maven
