@@ -4,7 +4,7 @@
 - maven
 - H2Database
 
->jpa
+>공부한 부분
 - @namedQuery
 - @Enumerated
 - 연관관계 (@OneToMany, @ManyToOne
